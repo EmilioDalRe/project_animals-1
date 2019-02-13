@@ -15,10 +15,7 @@ NOT koalas
 kangaroos
 funnel web spiders
 
-# Favorite Swiss animals
+# Lachlan's favorite American animals
 
-Mountain goat
-
-# Favorite Italian animals
-
-Venetian tourists
+immigrant bears
+grizzly bears
