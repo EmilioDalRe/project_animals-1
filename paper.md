@@ -11,11 +11,12 @@ We are losing about 60 species a day. This may be enough to soon qualify as the 
 
 # Lachlan's Favorite Australian animals
 
-NOT koalas
-kangaroos
-funnel web spiders
+Lachlan's country depends ONLY on the animals that live in it.
+
+* NOT koalas
+* kangaroos
+* funnel web spiders
 
 # Lachlan's favorite American animals
 
-immigrant bears
-grizzly bears
+* grizzly bears
