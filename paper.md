@@ -14,3 +14,11 @@ We are losing about 60 species a day. This may be enough to soon qualify as the 
 NOT koalas
 kangaroos
 funnel web spiders
+
+# Favorite Swiss animals
+
+Mountain goat
+
+# Favorite Italian animals
+
+Venetian tourists
